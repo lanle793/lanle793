@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Lan Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanle793)](https://github.com/lanle793/github-readme-stats)
+
 <!--
 **lanle793/lanle793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
